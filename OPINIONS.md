@@ -16,6 +16,7 @@ Grounded only in first-party public speech (Dale’s X, LinkedIn posts he author
 - With AI he can move faster on **prototyping, marketing, and iterating**; timing is right after holding back for years over visas/compensation/uncertainty. (Tabnora LinkedIn, 2025-08)
 - User trust matters: when told “I don’t trust the AI,” **rebuild with receipts** on every claim. (Shorta pivot, 2026-04)
 - For Shorts/ads: **views are a terrible quality proxy**; optimize pre-production signals (hook, structure, clarity, delivery) and ask how fast quality improves. (LinkedIn)
+- Video packaging: **kitchen-sink titles do the opposite of a hook** — prefer one outcome plus chapters for the rest. Lead with 60-90s why-this-wins before setup/install. If the title promises a reframe, give one concrete takeaway in the open before the teach. (X replies, 2026-09-22)
 
 ## Engineering craft (agents / shipping)
 - **Vibe for the first 200 lines; engineer for the first 2am pager.** Before prod: concurrency test, idempotency key, rollback path, synthetic monitor — else it’s still a prototype. (X reply)

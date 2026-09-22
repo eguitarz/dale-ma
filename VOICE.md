@@ -33,6 +33,9 @@ Dale sounds like a pragmatic builder-operator: short line breaks, concrete produ
 4. "Add one confidence gate before sending email: if retrieval score is low, ask a clarifying question first. That single gate prevents most bad automations." — X reply, 2026-03-10 · https://x.com/eguitarz/status/2031254233245429935
 5. "Hard agree. The turning point for us was strict input/output contracts before agent logic. Once schema is stable, reliability jumps fast." — X reply, 2026-03-10 · https://x.com/eguitarz/status/2031253866218664344
 6. "I’d use OpenClaw as internal ops copilot first, then productize the highest-frequency workflow. De-risks GTM because ROI is already proven." — X reply, 2026-03-10 · https://x.com/eguitarz/status/2031254612645445826
+7. "kitchen-sink titles do the opposite of a hook. One outcome ("ship auth with roles in an afternoon") + chapters for the rest usually clicks harder." — X reply, 2026-09-22 · https://x.com/eguitarz/status/2102268762791563461
+8. "the "finally found one worth using" promise dies if proof sits under setup. Lead with 60-90s why-this-wins before install." — X reply, 2026-09-22 · https://x.com/eguitarz/status/2102269152530698383
+9. "Title promises a reframe, but the first ~20s still feel like series preamble. Viewers who clicked for "this changes how you think" need one concrete takeaway before the teach." — X reply, 2026-09-22 · https://x.com/eguitarz/status/2102268260611994006
 
 ### C. Long-form / LinkedIn
 1. "That experience has only strengthened my belief that AI workflows and agents will shape the next generation of software." — LinkedIn Brev join, 2026-07-14 · https://www.linkedin.com/posts/dalema_a-new-chapter-begins-im-joining-brev-as-activity-7482909781771616256-_dOs
